@@ -1,0 +1,38 @@
+{   
+   
+    "products": 
+    [ 
+        { 
+        "image": "/img/Battle-of-the-bands.png",
+        "name": "Pink lady",
+        "description": "mi primer concierto",
+        "quantity": 6
+        
+        },
+       
+        {  
+        "image": "/img/neon.png",
+        "name": "Williams in the garden",
+        "description": "mi segundo concierto",
+        "quantity": 10
+        }, 
+        { 
+        "image": "/img/Rock-festival.png",
+        "name": "The Killers",
+        "description": "Mi tercer concierto",
+        "quantity": 15
+        }, 
+        { 
+        "image": "/img/Battle-of-the-bands.png",
+        "name": "The Killers",
+        "description": "Mi tercer concierto",
+        "quantity": 15
+        } , 
+       { 
+            "image": "/img/Battle-of-the-bands.png",
+            "name": "The Killers",
+            "description": "Mi tercer concierto",
+            "quantity": 15
+            }      
+    ]
+}
